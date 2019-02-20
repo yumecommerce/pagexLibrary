@@ -1,1 +1,14 @@
-{"title":"test","date":"2014-11-30T12:00:00.000Z"}
+[
+	{
+		"cat":"about",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/about/1/"
+	},
+	{
+		"cat":"404",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/404/1/"
+	},
+	{
+		"cat":"contacts",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/contacts/1/"
+	}
+]
