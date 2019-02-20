@@ -4,11 +4,19 @@
 		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/about/1/"
 	},
 	{
-		"cat":"404",
-		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/404/1/"
-	},
-	{
 		"cat":"contacts",
 		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/contacts/1/"
+	},
+	{
+		"cat":"coming_soon",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/coming_soon/1/"
+	},
+	{
+		"cat":"header",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/header/1/"
+	},
+	{
+		"cat":"footer",
+		"path":"https://raw.githubusercontent.com/yumecommerce/pagexLibrary/master/layouts/footer/1/"
 	}
 ]
