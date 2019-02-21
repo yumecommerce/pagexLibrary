@@ -1,0 +1,22 @@
+[
+	{
+		"cat":"archive",
+		"paths": [1, 2]
+	},
+	{
+		"cat":"product_archive",
+		"paths": [1]
+	},
+	{
+		"cat":"single_page",
+		"paths": [1, 2]
+	},
+	{
+		"cat":"single_post",
+		"paths": [1]
+	},
+	{
+		"cat":"single_product",
+		"paths": [1]
+	},
+]

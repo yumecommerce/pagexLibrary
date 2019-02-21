@@ -1,0 +1,10 @@
+[
+	{
+		"cat":"post",
+		"paths": [1]
+	},
+	{
+		"cat":"product",
+		"paths": [1]
+	}
+]
